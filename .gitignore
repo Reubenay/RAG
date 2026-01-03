@@ -11,3 +11,7 @@ Rag_Techniques
 Rag_Techniques1
 chroma_db
 .vscode
+PROJECT.ipynb
+01_Introduction_to_LangGraph.ipynb
+02_Tool_Integration_Agents.ipynb
+03_Agentic_RAG.ipynb
